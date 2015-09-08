@@ -2,6 +2,8 @@
 
 Aplicação foi feita de forma extremamente básica, devido a falta de tempo.
 
+O DER da aplição pode ser visto no arquivo der_quest-app.png
+
 ## Tecnologia Usadas
 
 Fugindo um pouco da mesmice (JSF+PRIMEFACES) , foi usado: 
